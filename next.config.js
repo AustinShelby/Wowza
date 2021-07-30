@@ -4,4 +4,5 @@ module.exports = {
     locales: ["en", "de", "catchall"],
     defaultLocale: "catchall",
   },
+  trailingSlash: true,
 };
