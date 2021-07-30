@@ -1,17 +1,11 @@
 [[redirects]]
-  from = "/"
-  to = "/en"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/catchall"
   to = "/en"
   status = 301
   force = true
 
 [[redirects]]
-  from = "https://blissful-lamarr-6d96de.netlify.app/"
-  to = "https://blissful-lamarr-6d96de.netlify.app/en"
+  from = "/"
+  to = "/en"
   status = 301
   force = true
