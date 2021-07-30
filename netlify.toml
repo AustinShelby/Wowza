@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/"
+  to = "/en"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/catchall"
+  to = "/en"
+  status = 301
+  force = true
