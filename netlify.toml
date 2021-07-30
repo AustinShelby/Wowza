@@ -9,3 +9,9 @@
   to = "/en"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://blissful-lamarr-6d96de.netlify.app/"
+  to = "https://blissful-lamarr-6d96de.netlify.app/en"
+  status = 301
+  force = true
